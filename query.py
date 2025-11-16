@@ -2,7 +2,7 @@ import requests
 import time
 import csv
 
-API_KEY = "INSERT_API_KEY_HERE" 
+API_KEY = "api_here" 
 url = "https://newsapi.org/v2/everything"
 
 query = "Mark Carney"
@@ -18,6 +18,8 @@ while len(all_articles) < target_articles:
         "q": query,
         "language": language,
         "sortBy": "publishedAt",
+        "from": "2025-10-20", # change date as needed
+        "to": "2025-10-25", # change date as needed 
         "pageSize": page_size,
         "page": page
     }
@@ -44,7 +46,7 @@ while len(all_articles) < target_articles:
     page += 1
     time.sleep(1)
 
-csv_file = "articles.csv"
+csv_file = "articles2.csv"
 with open(csv_file, mode="w", newline="", encoding="utf-8") as f:
     writer = csv.writer(f)
     writer.writerow(["publishedAt", "title", "description", "url", "source_name"])
