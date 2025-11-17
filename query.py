@@ -2,7 +2,7 @@ import requests
 import time
 import csv
 
-API_KEY = "api_here" 
+API_KEY = "apikey_here" 
 url = "https://newsapi.org/v2/everything"
 
 query = "Mark Carney"
