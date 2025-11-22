@@ -1,0 +1,13 @@
+Topics identified:
+Historical Background — Early career context (1 article)
+Early Political Speculation — Speculation about Carney entering politics (3 articles)
+Leadership Campaign — Campaign period activities (6 articles)
+Leadership and Transition — Winning leadership, swearing in, and cabinet formation (5 articles)
+General Election — Federal election activities and results (6 articles)
+Trade Disputes — Trade conflicts, tariffs, Ontario ad controversy (18 articles)
+Foreign Relations — International diplomacy and trips (8 articles)
+Infrastructure Projects — Major infrastructure initiatives (5 articles)
+Government Policy — Policy announcements (2 articles)
+Political Commentary — Analytical pieces and public appearances (8 articles)
+Budget and Fiscal Policy — Budget announcements and debates (1 article)
+Unrelated News — Articles not directly related to Carney/politics (3 articles)
