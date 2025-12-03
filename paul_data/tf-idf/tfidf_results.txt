@@ -1,0 +1,74 @@
+TF-IDF Analysis Results - Top 10 Words per Topic
+
+Topic: Federal_Budget
+1. budget (0.6369)
+2. carney (0.2931)
+3. vote (0.2136)
+4. mark (0.1982)
+5. canada (0.1638)
+6. federal (0.1638)
+7. government (0.1465)
+8. minister (0.1465)
+9. prime (0.1379)
+10. deficit (0.1274)
+
+Topic: International_Relations
+1. china (0.3383)
+2. carney (0.3097)
+3. minister (0.2722)
+4. mark (0.2440)
+5. canada (0.2253)
+6. prime (0.1971)
+7. foreign (0.1692)
+8. trade (0.1380)
+9. xi (0.1269)
+10. president (0.1171)
+
+Topic: Leadership_Campaign
+1. carney (0.5430)
+2. mark (0.4861)
+3. liberal (0.2336)
+4. party (0.2333)
+5. minister (0.2210)
+6. prime (0.1768)
+7. trudeau (0.1516)
+8. canada (0.1515)
+9. leader (0.1263)
+10. leadership (0.1181)
+
+Topic: National_Development
+1. carney (0.3642)
+2. projects (0.3245)
+3. mark (0.2698)
+4. building (0.2367)
+5. minister (0.2158)
+6. major (0.2104)
+7. prime (0.2023)
+8. nation (0.1622)
+9. project (0.1370)
+10. list (0.1367)
+
+Topic: Political_Commentary
+1. carney (0.5635)
+2. mark (0.4830)
+3. minister (0.2167)
+4. prime (0.2105)
+5. canada (0.1300)
+6. cup (0.0976)
+7. grey (0.0976)
+8. trudeau (0.0801)
+9. game (0.0773)
+10. liberals (0.0686)
+
+Topic: Trade_Disputes
+1. ad (0.4729)
+2. trump (0.3744)
+3. trade (0.3060)
+4. tariff (0.2381)
+5. reagan (0.2149)
+6. canada (0.2137)
+7. president (0.2024)
+8. anti (0.1964)
+9. ontario (0.1887)
+10. talks (0.1726)
+
